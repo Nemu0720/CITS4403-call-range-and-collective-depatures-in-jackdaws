@@ -1,0 +1,109 @@
+
+
+# Project Code Rubric
+
+Execution and Completeness
+• The project runs in Python 3.x using the documented
+setup and usage instructions.
+• All code used to produce the reported results is
+supplied, together with the required dependencies and
+any necessary data or data-access instructions.
+
+Model Correctness and Testing
+• Formulae, algorithms and model rules are implemented
+correctly, with appropriate control flow and data
+structures.
+• Appropriate checks or case analyses are used to
+establish correct model behaviour, including boundary
+or exceptional cases where relevant.
+
+Clarity and Modularity
+• Uses consistent formatting, meaningful names and
+documentation for major functions, variables and
+non-trivial algorithms.
+• Decomposes the problem into reusable functions or
+classes and avoids unnecessary repetition.
+
+Use of Jupyter Notebook as a Communication Tool
+• Blends code, equations, explanatory text, visualisations
+and relevant multimedia into a coherent account of the
+analysis.
+• The notebook sequence and any interactive elements
+are easy to follow and use.
+
+Effective Use of GitHub (individual)
+• Makes regular, meaningful commits with clear
+messages.
+• Uses issues to track bugs, tasks or missing features.
+• Regular use of GitHub pull requests with descriptive
+titles to add new features and fix bugs.
+
+Teamwork & Collaboration (individual)
+• Contributes constructively to shared development and
+discussions on a partner’s issues.
+• Provides helpful code reviews and responds to feedback
+before merging changes.
+
+Code Understanding and Explanation (individual)
+• Explains their own contributions in detail and how
+these connect to the overall implementation.
+• Accurately explains how key functions, variables and
+control flow implement the model’s rules.
+• Justifies relevant implementation choices and answers
+targeted questions about code behaviour, including the
+likely effect of a proposed change.
+
+
+# Project Report 
+Background and Research Aims
+• Establishes the problem, its significance and a focused
+research question or modelling objective.
+• Summarises relevant studies and places the project in
+the context of existing literatur
+
+Originality and Contribution
+• Clearly distinguishes the team’s contribution from
+existing approaches or taught examples.
+• Explains the purpose of that contribution and
+demonstrates its added value or insight
+
+Model Specification and Justification
+• Defines the components, variables, interactions,
+equations or update rules needed to understand the
+model.
+• States assumptions and initialisation rules, and justifies
+relevant model-design and parameter choices.
+
+Experimental Design
+• Uses appropriate experiments or case studies to
+investigate the research question and explore model
+behaviour.
+• Specifies scenarios, parameter ranges, outcome
+measures and, where relevant, repeated runs or
+comparisons.
+• Provides sufficient procedural detail to repeat the
+experiments
+
+Results
+• Reports relevant qualitative and quantitative findings
+accurately and provides sufficient evidence of model
+behaviour under the investigated conditions.
+• Uses well-chosen figures and tables with informative
+captions, labels and units where applicable.
+
+Discussion and Conclusions
+• Interprets findings in relation to the research question,
+rather than merely repeating the results.
+• Draws evidence-supported conclusions and explains the
+insights gained about the system.
+• Identifies limitations, uncertainty and potential
+improvements or applications without overstating the
+model’s scope.
+
+Scientific Writing and Presentation
+• Uses coherent paragraphs, clear academic language and
+a logical report structure.
+• Uses terminology precisely and writes concisely, with
+grammatically clear expression.
+• Uses consistent citations and references, and follows the
+stated page, font and margin requirements.
