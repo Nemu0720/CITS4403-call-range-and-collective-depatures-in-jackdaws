@@ -37,6 +37,7 @@ class Roost:
           raise ValueError("Msut have 1 - n*n jackdaws(number_of_birds)")
 
         self.n = n
+        self.time = 0
         self.calls = np.zeros((n,n),dtype=int)
         locs = []
         for row in range(n):
@@ -76,5 +77,19 @@ class Roost:
                 if singal >= bird.threshold:
                     bird.state = "taking_off"
                     bird.calling = False
+
+
+    def step(self,grow_every=1):
+        self.time += 1
+
+        if grow_every > 0 and self.time % grow_every == 0:
+            for bird in self.agents:
+                if bird.calling:
+                    bird.call_cells = min(bird.call_cells + 1,24)
+
+        self.update_calls()
+        self.update_takeoffs()
+
+        
                 
   
