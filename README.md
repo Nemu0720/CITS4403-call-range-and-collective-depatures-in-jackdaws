@@ -1,4 +1,4 @@
-# CITS4403-jackdaw-calls
+# CITS4403-call-range-and-collective-depatures-in-jackdaws
 Agent-based modelling of vocal coordination and collective departures in jackdaws.
 CITS4403: Jackdaw Calls and Collective Departures
 
